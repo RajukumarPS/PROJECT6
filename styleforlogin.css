@@ -1,0 +1,63 @@
+﻿/* Set background color */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+/* Centering the form */
+center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+/* Styling the login form box */
+#form1 {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height:400px;
+    text-align: center;
+    border: 2px solid #007bff;
+}
+
+/* Styling input fields */
+#TextBox1, #TextBox2 {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+/* Buttons */
+#Button1, #Button2 {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    color: white;
+}
+
+/* Login button */
+#Button1 {
+    background-color: #007bff;
+}
+
+/* Clear button */
+#Button2 {
+    background-color: #dc3545;
+}
+
+/* Hover effects */
+#Button1:hover {
+    background-color: #0056b3;
+}
+
+#Button2:hover {
+    background-color: #a71d2a;
+}

@@ -1,0 +1,59 @@
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\Nanda Kishore.dll.config
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\Nanda Kishore.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\Nanda Kishore.pdb
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\csc.exe
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\csc.exe.config
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\csc.rsp
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\csi.exe
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\csi.exe.config
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\csi.rsp
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.AppContext.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Console.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Net.Http.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\vbc.exe
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\vbc.exe.config
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\vbc.rsp
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\obj\Debug\Nanda Kishore.csproj.AssemblyReference.cache
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\obj\Debug\Nanda Kishore.csproj.CoreCompileInputs.cache
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\obj\Debug\Nanda Ki.F06C4325.Up2Date
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\obj\Debug\Nanda Kishore.dll
+C:\Users\Raj Kumar\source\repos\Nanda Kishore\Nanda Kishore\obj\Debug\Nanda Kishore.pdb
