@@ -17,7 +17,7 @@ namespace Nanda_Kishore
         protected void Button1_Click(object sender, EventArgs e)
         {
 
-            Response.Redirect("seat allotment.aspx");
+            Response.Redirect("newteacher.aspx");
         }
 
         protected void Button2_Click(object sender, EventArgs e)

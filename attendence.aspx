@@ -1,16 +1,15 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="Nanda_Kishore.Login" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="attendence.aspx.cs" Inherits="Nanda_Kishore.attendence" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <link rel="stylesheet"type="text/css"href="styleforlogin.css"/>
     <title></title>
 </head>
 <body>
-    <div class="h1">
+   <div>
     <center>
-    <form id="form1" runat="server">
+    <form id="form2" runat="server">
         <h2>Admin Login</h2>
         <p>
             &nbsp;</p>
@@ -24,12 +23,30 @@
 
         <asp:TextBox ID="Textbox2" runat="server" TextMode="Password"></asp:TextBox><br /><br />
         <center>
-            <asp:Button ID="Button1" runat="server" Text="Login" OnClick="Button1_Click" />&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="Button12" runat="server" Text="Login" OnClick="Button1_Click1" />&nbsp;&nbsp;&nbsp;
 
             <input type="reset" id="Button2" name="reset" value="Clear" />
+        </center>
         </center>
     </form>
         </div>
     
    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+    </form>
+</body>
 </html>

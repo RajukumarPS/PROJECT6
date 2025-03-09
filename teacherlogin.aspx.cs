@@ -1,21 +1,24 @@
 ﻿using System;
-using System.Data;
+using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Linq;
+using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace Nanda_Kishore
 {
-    public partial class Login : System.Web.UI.Page
+    public partial class teacherlogin : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+
         }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            string username = Textbox1.Text.Trim();
-            string password = Textbox2.Text.Trim();
+            string username = Text1.Text.Trim();
+            string password = Text2.Text.Trim();
 
             if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {
@@ -31,7 +34,7 @@ namespace Nanda_Kishore
                 try
                 {
                     con.Open();
-                    string query = "SELECT COUNT(*) FROM Adminlogintable WHERE Username=@username AND Password=@password";
+                    string query = "SELECT COUNT(*) FROM teacher WHERE Username=@username AND Password=@password";
 
                     using (SqlCommand cmd = new SqlCommand(query, con))
                     {
@@ -44,7 +47,7 @@ namespace Nanda_Kishore
                         {
                             Response.Write("<script>alert('Login Successful');</script>");
                             // Redirect to another page if needed
-                            Response.Redirect("2nd Admin home.aspx");
+                            Response.Redirect("teacherhome.html");
                         }
                         else
                         {
@@ -60,6 +63,3 @@ namespace Nanda_Kishore
         }
     }
 }
-
-
-

@@ -11,17 +11,17 @@ namespace Nanda_Kishore
 {
 
 
-    public partial class Login
+    public partial class attendence
     {
 
         /// <summary>
-        /// form1 control.
+        /// form2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.HtmlControls.HtmlForm form2;
 
         /// <summary>
         /// Label1 control.
@@ -60,12 +60,12 @@ namespace Nanda_Kishore
         protected global::System.Web.UI.WebControls.TextBox Textbox2;
 
         /// <summary>
-        /// Button1 control.
+        /// Button12 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.Button Button12;
     }
 }

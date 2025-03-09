@@ -59,8 +59,8 @@
 <body>
     <form id="form1" runat="server">
         <div class="container">
-            <h1>Examination Seat Allotment</h1>
-            <a href="seat allotment.aspx"><asp:Button ID="Button1" runat="server" Text="Manage Seat Allotment" CssClass="styled-button" OnClick="Button1_Click" /></a>
+            <h1>Add new Teacher</h1>
+            <a href="newteacher.aspx"><asp:Button ID="Button1" runat="server" Text="Add Teacher" CssClass="styled-button" OnClick="Button1_Click" /></a>
 
             <h1>Attendance Management</h1>
            

@@ -67,23 +67,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="attendence manage.aspx" />
+    <Content Include="ATT.aspx" />
+    <Content Include="contact.html" />
     <Content Include="Home.aspx" />
     <Content Include="images\imgatt.jpg" />
-    <Content Include="Login.aspx" />
     <Content Include="2nd Admin home.aspx" />
-    <Content Include="seat allotment.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="newteacher.aspx" />
     <Content Include="styleforhome.css" />
     <Content Include="styleforlogin.css" />
+    <Content Include="takeatt.aspx" />
+    <Content Include="teacherhome.html" />
+    <Content Include="teacherlogin.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="attendence manage.aspx.cs">
-      <DependentUpon>attendence manage.aspx</DependentUpon>
+    <Compile Include="ATT.aspx.cs">
+      <DependentUpon>ATT.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="attendence manage.aspx.designer.cs">
-      <DependentUpon>attendence manage.aspx</DependentUpon>
+    <Compile Include="ATT.aspx.designer.cs">
+      <DependentUpon>ATT.aspx</DependentUpon>
     </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
@@ -92,12 +96,19 @@
     <Compile Include="Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Login.aspx.cs">
+    <Compile Include="login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Login.aspx.designer.cs">
+    <Compile Include="login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="newteacher.aspx.cs">
+      <DependentUpon>newteacher.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="newteacher.aspx.designer.cs">
+      <DependentUpon>newteacher.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="2nd Admin home.aspx.cs">
@@ -107,16 +118,25 @@
     <Compile Include="2nd Admin home.aspx.designer.cs">
       <DependentUpon>2nd Admin home.aspx</DependentUpon>
     </Compile>
-    <Compile Include="seat allotment.aspx.cs">
-      <DependentUpon>seat allotment.aspx</DependentUpon>
+    <Compile Include="takeatt.aspx.cs">
+      <DependentUpon>takeatt.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="seat allotment.aspx.designer.cs">
-      <DependentUpon>seat allotment.aspx</DependentUpon>
+    <Compile Include="takeatt.aspx.designer.cs">
+      <DependentUpon>takeatt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="teacherlogin.aspx.cs">
+      <DependentUpon>teacherlogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="teacherlogin.aspx.designer.cs">
+      <DependentUpon>teacherlogin.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
     <None Include="packages.config" />
+    <Content Include="petclinics.zip" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
