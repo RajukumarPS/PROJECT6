@@ -1,0 +1,23 @@
+# Use the official .NET SDK image to build the application
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
+WORKDIR /app
+
+# Copy project files and restore dependencies
+COPY *.sln ./
+COPY PROJECT6/ PROJECT6/
+RUN dotnet restore
+
+# Build and publish the application
+RUN dotnet publish -c Release -o /out
+
+# Use a smaller runtime image for deployment
+FROM mcr.microsoft.com/dotnet/aspnet:7.0
+WORKDIR /app
+COPY --from=build /out .
+
+# Expose the necessary ports
+EXPOSE 80
+EXPOSE 443
+
+# Run the application
+ENTRYPOINT ["dotnet", "PROJECT6.dll"]
